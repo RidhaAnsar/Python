@@ -1,7 +1,3 @@
-
-num1 = 5
-num2 = 10
-
-sum = num1 + num2
-
-print("The sum is:", sum)
+a=3
+b=2
+print(a+b)
