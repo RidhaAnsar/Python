@@ -33,7 +33,7 @@ dict2.popitem()
 print(dict2)
 
 
-s1={1,2,3,4,5,5,5}
+s1={1,2,3,4,5,5,5}  #will only print 1 '5'
 s2={'a', 'b','c','d',21,22,23}
 print(s1)
 print(s2)
